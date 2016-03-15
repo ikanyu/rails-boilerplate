@@ -1,5 +1,3 @@
-== README
-
 # Ruby on Rails Application Template
 This includes the ruby gems that I usually use
 
